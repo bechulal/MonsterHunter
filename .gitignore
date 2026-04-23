@@ -1,0 +1,40 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+
+# Build files
+Build/*
+
+# Keep important build files
+!Build/*/
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# Logs
+*.log
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+
+# Project files
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# IDEs
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
